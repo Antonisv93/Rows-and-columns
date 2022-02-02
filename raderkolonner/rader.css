@@ -1,0 +1,15 @@
+table{
+    font-size:60px;
+    color:#776617;
+    align-content:center;
+    border-color:bisque
+
+}
+body{
+   background:#120F03;
+    align-self: center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
